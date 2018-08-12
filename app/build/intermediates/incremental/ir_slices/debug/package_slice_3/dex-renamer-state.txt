@@ -1,0 +1,4 @@
+#Fri Aug 10 15:46:39 IST 2018
+base.0=/home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/build/intermediates/transforms/dexMerger/debug/4
+path.0=classes.dex
+renamed.0=classes.dex

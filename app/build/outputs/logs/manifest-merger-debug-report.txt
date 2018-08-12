@@ -1,0 +1,178 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:2:1-47:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/5e46a450fdeb1dda1c9f59c55672a1f8/AndroidManifest.xml:2:1-11:12
+MERGED from [com.cleveroad:audiovisualization:1.0.0] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/audiovisualization-1.0.0.aar/fdd82602c9c7a013de96ee2abd133662/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:design:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/44ce05bab47ff97c35b5d215c6f46c84/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/0b10f7177e70b59efded082a346a98af/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/4dca41b7deda89c9f027417ebed3dbdd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/73ee8caf30f591ae2ccb9f27a4528261/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/256048f35f33669a1571a34b40214051/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/3e05c75781636e44d1a441980a02017a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/c87105a367512958bb2787c3eb4bf4c0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/5c421aa6763e501628d170eefd63800b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/3814e322e77ddf5a39988e70ab1fbef6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3a48c9e38bb8c78e9b1b822354143b79/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/783b1c07bdc9997d9bc53db1229adff3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b15ece6bad49939ad0a2a7ca4a2ae065/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c43435627cc99ce58f232d34c5c3d3af/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c05f17ce09e2b7e18c24016423479d4a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/5c9b462ba4236ada4b26f3901713898c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8806b84f4e07aed4fe1bed2af64a26ed/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e4fd1aa7660d1be789b5b1001023e66d/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml
+		ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:2:1-47:12
+		INJECTED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml
+		ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:2:1-47:12
+		INJECTED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:2:11-69
+uses-feature#0x00020000
+ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:5:5-7:35
+	android:glEsVersion
+		ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:6:9-41
+	android:required
+		ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:7:9-32
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:10:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:11:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:12:22-72
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:13:22-78
+application
+ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:15:5-45:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/5e46a450fdeb1dda1c9f59c55672a1f8/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/5e46a450fdeb1dda1c9f59c55672a1f8/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:18:9-41
+	android:roundIcon
+		ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:19:9-48
+	android:icon
+		ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:17:9-43
+	android:allowBackup
+		ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:21:9-40
+activity#internshala.com.echomusik.activties.SplashActivty
+ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:22:9-32:20
+	android:screenOrientation
+		ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:25:13-49
+	android:label
+		ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:24:13-45
+	android:theme
+		ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:23:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:30:27-74
+activity#internshala.com.echomusik.activties.MainActivity
+ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:33:9-36:59
+	android:screenOrientation
+		ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:35:13-49
+	android:theme
+		ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:36:13-56
+	android:name
+		ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:34:13-51
+receiver#internshala.com.echomusik.utils.CaptureBroadcast
+ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:38:9-43:20
+	android:name
+		ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:38:19-57
+intent-filter#action:name:android.intent.action.NEW_OUTGOING_CALL+action:name:android.intent.action.PHONE_STATE
+ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:39:13-42:29
+action#android.intent.action.PHONE_STATE
+ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:40:17-76
+	android:name
+		ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:40:25-73
+action#android.intent.action.NEW_OUTGOING_CALL
+ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:41:17-82
+	android:name
+		ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml:41:25-79
+uses-sdk
+INJECTED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml
+INJECTED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/5e46a450fdeb1dda1c9f59c55672a1f8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/5e46a450fdeb1dda1c9f59c55672a1f8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.cleveroad:audiovisualization:1.0.0] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/audiovisualization-1.0.0.aar/fdd82602c9c7a013de96ee2abd133662/AndroidManifest.xml:8:5-10:41
+MERGED from [com.cleveroad:audiovisualization:1.0.0] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/audiovisualization-1.0.0.aar/fdd82602c9c7a013de96ee2abd133662/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/44ce05bab47ff97c35b5d215c6f46c84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/44ce05bab47ff97c35b5d215c6f46c84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/0b10f7177e70b59efded082a346a98af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/0b10f7177e70b59efded082a346a98af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/4dca41b7deda89c9f027417ebed3dbdd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/4dca41b7deda89c9f027417ebed3dbdd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/73ee8caf30f591ae2ccb9f27a4528261/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/73ee8caf30f591ae2ccb9f27a4528261/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/256048f35f33669a1571a34b40214051/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/256048f35f33669a1571a34b40214051/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/3e05c75781636e44d1a441980a02017a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/3e05c75781636e44d1a441980a02017a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/c87105a367512958bb2787c3eb4bf4c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/c87105a367512958bb2787c3eb4bf4c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/5c421aa6763e501628d170eefd63800b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/5c421aa6763e501628d170eefd63800b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/3814e322e77ddf5a39988e70ab1fbef6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/3814e322e77ddf5a39988e70ab1fbef6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3a48c9e38bb8c78e9b1b822354143b79/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3a48c9e38bb8c78e9b1b822354143b79/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/783b1c07bdc9997d9bc53db1229adff3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/783b1c07bdc9997d9bc53db1229adff3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b15ece6bad49939ad0a2a7ca4a2ae065/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b15ece6bad49939ad0a2a7ca4a2ae065/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c43435627cc99ce58f232d34c5c3d3af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c43435627cc99ce58f232d34c5c3d3af/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c05f17ce09e2b7e18c24016423479d4a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c05f17ce09e2b7e18c24016423479d4a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/5c9b462ba4236ada4b26f3901713898c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/5c9b462ba4236ada4b26f3901713898c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8806b84f4e07aed4fe1bed2af64a26ed/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8806b84f4e07aed4fe1bed2af64a26ed/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e4fd1aa7660d1be789b5b1001023e66d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/rjvjha/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e4fd1aa7660d1be789b5b1001023e66d/AndroidManifest.xml:20:5-44
+INJECTED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml
+INJECTED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml
+		ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml
+		ADDED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rjvjha/Desktop/Internshala Trainings Project/Final Project/Echo/app/src/main/AndroidManifest.xml
